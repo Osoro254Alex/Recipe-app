@@ -121,6 +121,12 @@ To run the project, execute the following command:
 - Twitter: [@twitterhandle](https://twitter.com/ALEX14809153)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/alexogeto/)
 
+👤 **Gaurav Gangwar**
+
+- GitHub: [@githubhandle](https://github.com/gauravgangwarweb)
+- Twitter: [@twitterhandle](https://twitter.com/GauravGangwar51)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/gauravgangwarweb)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
